@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8bc3de0-13cd-4498-8555-dbfdc9d8bfa8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week-2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/EmployeeCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/EmployeeJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/TaxUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week-2/ThisUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/.idea/week-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/out/production/week-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/out/production/week-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/out/production/week-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/out/production/week-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/out/production/week-1/.idea/week-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-1/out/production/week-1/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/EmployeeCRUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/EmployeeCRUD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/EncapsulationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/Super$StaticMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/Super$StaticMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/Super.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/Super.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/Super1.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/Super1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/TaxUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/TaxUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-2/out/production/week-2/ThisUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/week-2/out/production/week-2/ThisUse.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ibUDU1An6H5ltfjeW2PVkThyrV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-java&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.Super">
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem1" />
+      <module name="rg-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super" />
+      <module name="rg-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Super" />
+        <item itemvalue="Application.Problem1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8bc3de0-13cd-4498-8555-dbfdc9d8bfa8" name="Changes" comment="" />
+      <created>1719758655728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719758655728</updated>
+    </task>
+    <servers />
+  </component>
+</project>
